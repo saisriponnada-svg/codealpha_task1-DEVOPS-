@@ -1,0 +1,6 @@
+{
+  "name": "Azure DevOps Playground",
+  "description": "An interactive environment to design, simulate, and monitor Azure CI/CD Pipelines, Azure Container Registry, and Azure App Service deployments with an AI DevOps Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
